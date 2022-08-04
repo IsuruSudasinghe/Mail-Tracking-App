@@ -22,3 +22,8 @@ SQL
 NOSQL
   - MongoDB -  Free and scalable
   - Firebase - Free and scalable
+  
+<b>Tools</b></br>
+ - XAMPP
+ - MySQL WorkBench
+ - Android Studio
